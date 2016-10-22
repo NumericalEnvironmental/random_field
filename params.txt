@@ -1,0 +1,8 @@
+extra_seeds	100
+max_pts	30000
+r_search	25.0
+ref_dist	5.0
+min_value	-3.0
+max_value	1.5
+exp_gen	2.0
+smooth_fct	1.0
