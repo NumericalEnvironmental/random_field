@@ -6,6 +6,8 @@ This is a Python 2.7 script designed to produce realistic-looking spatially corr
 
 The script requires the numpy, scipy, and matplotlib libraries.
 
+June 1, 2019: Please note that the functionality of this particular script is now much better addressed with a newer (and shorter/simpler) python code which can be found here: https://github.com/NumericalEnvironmental/RBF-based_correlated_random_field_generator.
+
 The following tab-delimited input files are required (assisted with a tkinter-based GUI):
 
 * domain.txt - grid settings
